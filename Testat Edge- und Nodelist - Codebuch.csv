@@ -1,0 +1,26 @@
+CODEBUCH,
+"Im Codebuch definieren Sie, wie und nach welchen Kriterien erfasst werden.",
+Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt. Beispiel siehe hier.,
+Wert,Kommentar
+edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
+from,"definiert den Sender einer Beziehung im gerichteten Netzwerk. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Kürzel"
+to ,"definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Kürzel"
+relation,Verhältnis bzw. Beziehung zwischen Personen oder Organisationen
+Anführer,Chefrolle in der Organisation
+Mit-Anführer,Hohe Rolle in der Organisation
+Kollegen,Zusammenarbeit in Organisation
+Mitgründer,Mitbegründer einer Organisation
+Angestellter,Beziehung in Angestellten- bzw. anstellungsähnlichem Verhältnis
+Partner,Liebesbeziehung
+Ex-Partner,ehemalige Liebesbeziehung
+,
+,
+nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  "
+name,Name oder Bezeichnung des Knotens. 
+type,definiert den Beruf der Personen bzw. die Art der Organisationen
+sector,definiert das gesellschaftliche Teilsystem wozu der Beruf bzw. die Organisation zuzuordnen ist.
+,
+,
+,
+NA,"definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus.."
