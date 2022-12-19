@@ -1,0 +1,35 @@
+id,name,type,sector
+hpr,Heinrich Prinz Reuß,Person,Adel
+fh,Frank Heppner,Person,Gastronomie
+mf,Michael Fritsch,Person,Polizei
+me,Maximilian Eder,Person,Militär
+cw,Christian Wendler,Person,freie Wirtschaft
+rhl,Ruth Hildegard Leiding,Person,freie Wirtschaft
+rvp,Rüdiger von Pescatore,Person,Militär
+tpg,Tim Paul Gorgass,Person,Recht
+mvh,Marco van H.,Person,Militär
+mr,Melanie Ritter,Person,Medizin
+pw,Peter Wörner,Person,Militär
+rr,Rene R.,Person,Musik
+bmw,Birgit Malsack-Winkemann,Person,Politik
+fr,Frank Richter,Person,Politik
+ig,Ivonne G.,Person,Polizei
+aq,Alexander Quade,Person,freie Wirtschaft
+tt,Thomas T.,Person,freie Wirtschaft
+am,Andreas M.,Person,Militär
+rs,Ralf S.,Person,freie Wirtschaft
+tm,Thomas M.,Person,Unbekannt
+hp,Harald P,Person,Unbekannt
+vb,Vitalia B.,Person,Unbekannt
+mh,Matthias Haug,Person,Wissenschaft
+ti,Traugott Ickeroth,Person,Unbekannt
+F251,Fallschirmjägerbataillons 251,Organisation,Militär
+PU,Patriotische Union,Organisation,Verschwörung
+AFD,AFD,Organisation,Politik
+CDU,CDU,Organisation,Politik
+Q,QAnon,Organisation,Verschwörung
+QD,Querdenker,Organisation,Verschwörung
+KSK,Kommando Spezialkräfte,Organisation,Militär
+,,,
+,,,
+KSK,Kommando Spezialkräfte,Organisation,Militär
